@@ -1,0 +1,80 @@
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding-top: 20px;
+padding-bottom: 30px;
+font-size: 18px;
+color: #696969;
+}
+.p-Home.Flex3 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex2 {
+display: flex;
+align-items: center;
+column-gap: 30px;
+}
+.p-Home.Flex5 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex4 {
+display: flex;
+}
+.p-Home.Button1 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+margin-bottom: 0px;
+}
+.p-Home.Button2 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.TextBox1 {
+cursor: pointer;
+}
+.p-Home.TextBox2 {
+cursor: pointer;
+}
+.p-Home.TextBox3 {
+cursor: pointer;
+}
+.p-Home.TextBox4 {
+cursor: pointer;
+}
+.p-Home.TextBox5 {
+cursor: pointer;
+}
+.p-Home.Image1 {
+cursor: pointer;
+}
