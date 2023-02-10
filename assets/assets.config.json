@@ -28,5 +28,17 @@
   },
   "menu-logo2.svg": {
     "mime": "image/svg+xml"
+  },
+  "about-home.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "location-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email-icon.svg": {
+    "mime": "image/svg+xml"
   }
 }

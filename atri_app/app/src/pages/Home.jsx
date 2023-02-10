@@ -8,7 +8,7 @@ import { Flex } from "@atrilabs/react-component-manifests/src/manifests/Flex/Fle
 import { Button } from "@atrilabs/react-component-manifests/src/manifests/Button/Button.tsx";
 import { TextBox } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
-import { useFlex1Cb, useFlex3Cb, useFlex2Cb, useFlex5Cb, useFlex4Cb, useFlex6Cb, useFlex7Cb, useFlex9Cb, useFlex11Cb, useFlex10Cb, useFlex8Cb, useFlex12Cb, useFlex13Cb, useFlex14Cb, useFlex15Cb, useFlex20Cb, useFlex17Cb, useFlex18Cb, useFlex19Cb, useFlex16Cb, useButton1Cb, useButton2Cb, useTextBox1Cb, useTextBox2Cb, useTextBox3Cb, useTextBox4Cb, useTextBox5Cb, useImage1Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useButton4Cb, useButton3Cb, useImage2Cb, useTextBox9Cb, useImage4Cb, useImage5Cb, useImage6Cb, useImage7Cb, useTextBox10Cb, useImage12Cb, useTextBox22Cb, useTextBox23Cb, useTextBox24Cb, useImage8Cb, useTextBox13Cb, useTextBox14Cb, useTextBox15Cb, useImage9Cb, useTextBox16Cb, useTextBox17Cb, useTextBox18Cb, useImage10Cb, useTextBox19Cb, useTextBox20Cb, useTextBox21Cb, useButton5Cb, useButton6Cb } from "../page-cbs/Home";
+import { useFlex1Cb, useFlex3Cb, useFlex2Cb, useFlex5Cb, useFlex4Cb, useFlex6Cb, useFlex7Cb, useFlex9Cb, useFlex11Cb, useFlex10Cb, useFlex8Cb, useFlex12Cb, useFlex13Cb, useFlex14Cb, useFlex15Cb, useFlex20Cb, useFlex17Cb, useFlex18Cb, useFlex19Cb, useFlex16Cb, useFlex21Cb, useFlex23Cb, useFlex28Cb, useFlex22Cb, useFlex24Cb, useFlex25Cb, useFlex26Cb, useFlex27Cb, useButton1Cb, useButton2Cb, useTextBox1Cb, useTextBox2Cb, useTextBox3Cb, useTextBox4Cb, useTextBox5Cb, useImage1Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useButton4Cb, useButton3Cb, useImage2Cb, useTextBox9Cb, useImage4Cb, useImage5Cb, useImage6Cb, useImage7Cb, useTextBox10Cb, useImage12Cb, useTextBox22Cb, useTextBox23Cb, useTextBox24Cb, useImage8Cb, useTextBox13Cb, useTextBox14Cb, useTextBox15Cb, useImage9Cb, useTextBox16Cb, useTextBox17Cb, useTextBox18Cb, useImage10Cb, useTextBox19Cb, useTextBox20Cb, useTextBox21Cb, useButton5Cb, useButton6Cb, useTextBox30Cb, useTextBox31Cb, useTextBox32Cb, useButton8Cb, useButton9Cb, useImage13Cb, useTextBox26Cb, useImage14Cb, useTextBox27Cb, useImage15Cb, useTextBox28Cb, useImage16Cb, useTextBox29Cb } from "../page-cbs/Home";
 import "../page-css/Home.css";
 import "../custom/Home";
 
@@ -88,6 +88,30 @@ const Flex19Cb = useFlex19Cb()
 const Flex16Props = useStore((state)=>state["Home"]["Flex16"]);
 const Flex16IoProps = useIoStore((state)=>state["Home"]["Flex16"]);
 const Flex16Cb = useFlex16Cb()
+const Flex21Props = useStore((state)=>state["Home"]["Flex21"]);
+const Flex21IoProps = useIoStore((state)=>state["Home"]["Flex21"]);
+const Flex21Cb = useFlex21Cb()
+const Flex23Props = useStore((state)=>state["Home"]["Flex23"]);
+const Flex23IoProps = useIoStore((state)=>state["Home"]["Flex23"]);
+const Flex23Cb = useFlex23Cb()
+const Flex28Props = useStore((state)=>state["Home"]["Flex28"]);
+const Flex28IoProps = useIoStore((state)=>state["Home"]["Flex28"]);
+const Flex28Cb = useFlex28Cb()
+const Flex22Props = useStore((state)=>state["Home"]["Flex22"]);
+const Flex22IoProps = useIoStore((state)=>state["Home"]["Flex22"]);
+const Flex22Cb = useFlex22Cb()
+const Flex24Props = useStore((state)=>state["Home"]["Flex24"]);
+const Flex24IoProps = useIoStore((state)=>state["Home"]["Flex24"]);
+const Flex24Cb = useFlex24Cb()
+const Flex25Props = useStore((state)=>state["Home"]["Flex25"]);
+const Flex25IoProps = useIoStore((state)=>state["Home"]["Flex25"]);
+const Flex25Cb = useFlex25Cb()
+const Flex26Props = useStore((state)=>state["Home"]["Flex26"]);
+const Flex26IoProps = useIoStore((state)=>state["Home"]["Flex26"]);
+const Flex26Cb = useFlex26Cb()
+const Flex27Props = useStore((state)=>state["Home"]["Flex27"]);
+const Flex27IoProps = useIoStore((state)=>state["Home"]["Flex27"]);
+const Flex27Cb = useFlex27Cb()
 const Button1Props = useStore((state)=>state["Home"]["Button1"]);
 const Button1IoProps = useIoStore((state)=>state["Home"]["Button1"]);
 const Button1Cb = useButton1Cb()
@@ -202,6 +226,45 @@ const Button5Cb = useButton5Cb()
 const Button6Props = useStore((state)=>state["Home"]["Button6"]);
 const Button6IoProps = useIoStore((state)=>state["Home"]["Button6"]);
 const Button6Cb = useButton6Cb()
+const TextBox30Props = useStore((state)=>state["Home"]["TextBox30"]);
+const TextBox30IoProps = useIoStore((state)=>state["Home"]["TextBox30"]);
+const TextBox30Cb = useTextBox30Cb()
+const TextBox31Props = useStore((state)=>state["Home"]["TextBox31"]);
+const TextBox31IoProps = useIoStore((state)=>state["Home"]["TextBox31"]);
+const TextBox31Cb = useTextBox31Cb()
+const TextBox32Props = useStore((state)=>state["Home"]["TextBox32"]);
+const TextBox32IoProps = useIoStore((state)=>state["Home"]["TextBox32"]);
+const TextBox32Cb = useTextBox32Cb()
+const Button8Props = useStore((state)=>state["Home"]["Button8"]);
+const Button8IoProps = useIoStore((state)=>state["Home"]["Button8"]);
+const Button8Cb = useButton8Cb()
+const Button9Props = useStore((state)=>state["Home"]["Button9"]);
+const Button9IoProps = useIoStore((state)=>state["Home"]["Button9"]);
+const Button9Cb = useButton9Cb()
+const Image13Props = useStore((state)=>state["Home"]["Image13"]);
+const Image13IoProps = useIoStore((state)=>state["Home"]["Image13"]);
+const Image13Cb = useImage13Cb()
+const TextBox26Props = useStore((state)=>state["Home"]["TextBox26"]);
+const TextBox26IoProps = useIoStore((state)=>state["Home"]["TextBox26"]);
+const TextBox26Cb = useTextBox26Cb()
+const Image14Props = useStore((state)=>state["Home"]["Image14"]);
+const Image14IoProps = useIoStore((state)=>state["Home"]["Image14"]);
+const Image14Cb = useImage14Cb()
+const TextBox27Props = useStore((state)=>state["Home"]["TextBox27"]);
+const TextBox27IoProps = useIoStore((state)=>state["Home"]["TextBox27"]);
+const TextBox27Cb = useTextBox27Cb()
+const Image15Props = useStore((state)=>state["Home"]["Image15"]);
+const Image15IoProps = useIoStore((state)=>state["Home"]["Image15"]);
+const Image15Cb = useImage15Cb()
+const TextBox28Props = useStore((state)=>state["Home"]["TextBox28"]);
+const TextBox28IoProps = useIoStore((state)=>state["Home"]["TextBox28"]);
+const TextBox28Cb = useTextBox28Cb()
+const Image16Props = useStore((state)=>state["Home"]["Image16"]);
+const Image16IoProps = useIoStore((state)=>state["Home"]["Image16"]);
+const Image16Cb = useImage16Cb()
+const TextBox29Props = useStore((state)=>state["Home"]["TextBox29"]);
+const TextBox29IoProps = useIoStore((state)=>state["Home"]["TextBox29"]);
+const TextBox29Cb = useTextBox29Cb()
 
   return (<>
   <Flex className="p-Home Flex1 bpt" {...Flex1Props} {...Flex1Cb} {...Flex1IoProps}>
@@ -280,6 +343,35 @@ const Button6Cb = useButton6Cb()
 <Flex className="p-Home Flex16 bpt" {...Flex16Props} {...Flex16Cb} {...Flex16IoProps}>
 <Button className="p-Home Button5 bpt" {...Button5Props} {...Button5Cb} {...Button5IoProps}/>
 <Button className="p-Home Button6 bpt" {...Button6Props} {...Button6Cb} {...Button6IoProps}/>
+</Flex>
+</Flex>
+<Flex className="p-Home Flex21 bpt" {...Flex21Props} {...Flex21Cb} {...Flex21IoProps}>
+<Flex className="p-Home Flex22 bpt" {...Flex22Props} {...Flex22Cb} {...Flex22IoProps}>
+<Image className="p-Home Image13 bpt" {...Image13Props} {...Image13Cb} {...Image13IoProps}/>
+<Flex className="p-Home Flex24 bpt" {...Flex24Props} {...Flex24Cb} {...Flex24IoProps}>
+<TextBox className="p-Home TextBox26 bpt" {...TextBox26Props} {...TextBox26Cb} {...TextBox26IoProps}/>
+<Flex className="p-Home Flex25 bpt" {...Flex25Props} {...Flex25Cb} {...Flex25IoProps}>
+<Image className="p-Home Image14 bpt" {...Image14Props} {...Image14Cb} {...Image14IoProps}/>
+<TextBox className="p-Home TextBox27 bpt" {...TextBox27Props} {...TextBox27Cb} {...TextBox27IoProps}/>
+</Flex>
+<Flex className="p-Home Flex26 bpt" {...Flex26Props} {...Flex26Cb} {...Flex26IoProps}>
+<Image className="p-Home Image15 bpt" {...Image15Props} {...Image15Cb} {...Image15IoProps}/>
+<TextBox className="p-Home TextBox28 bpt" {...TextBox28Props} {...TextBox28Cb} {...TextBox28IoProps}/>
+</Flex>
+<Flex className="p-Home Flex27 bpt" {...Flex27Props} {...Flex27Cb} {...Flex27IoProps}>
+<Image className="p-Home Image16 bpt" {...Image16Props} {...Image16Cb} {...Image16IoProps}/>
+<TextBox className="p-Home TextBox29 bpt" {...TextBox29Props} {...TextBox29Cb} {...TextBox29IoProps}/>
+</Flex>
+</Flex>
+</Flex>
+<Flex className="p-Home Flex23 bpt" {...Flex23Props} {...Flex23Cb} {...Flex23IoProps}>
+<TextBox className="p-Home TextBox30 bpt" {...TextBox30Props} {...TextBox30Cb} {...TextBox30IoProps}/>
+<TextBox className="p-Home TextBox31 bpt" {...TextBox31Props} {...TextBox31Cb} {...TextBox31IoProps}/>
+<TextBox className="p-Home TextBox32 bpt" {...TextBox32Props} {...TextBox32Cb} {...TextBox32IoProps}/>
+<Flex className="p-Home Flex28 bpt" {...Flex28Props} {...Flex28Cb} {...Flex28IoProps}>
+<Button className="p-Home Button8 bpt" {...Button8Props} {...Button8Cb} {...Button8IoProps}/>
+<Button className="p-Home Button9 bpt" {...Button9Props} {...Button9Cb} {...Button9IoProps}/>
+</Flex>
 </Flex>
 </Flex>
   </>);

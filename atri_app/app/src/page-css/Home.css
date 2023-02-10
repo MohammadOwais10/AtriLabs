@@ -127,6 +127,62 @@ border-style: solid;
 display: flex;
 column-gap: 30px;
 }
+.p-Home.Flex21 {
+display: flex;
+justify-content: center;
+padding-top: 150px;
+padding-left: 150px;
+background-color: #FFF9F3;
+align-items: flex-start;
+}
+.p-Home.Flex23 {
+display: flex;
+align-items: flex-start;
+flex-direction: column;
+row-gap: 25px;
+width: 50%;
+padding-top: 100px;
+flex-grow: 1;
+}
+.p-Home.Flex28 {
+display: flex;
+column-gap: 30px;
+}
+.p-Home.Flex22 {
+display: flex;
+align-items: center;
+width: 50%;
+padding-bottom: 200px;
+}
+.p-Home.Flex24 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+padding-right: 20px;
+padding-bottom: 50px;
+padding-left: 50px;
+padding-top: 50px;
+border-radius: 25px;
+background-color: #ffffff;
+position: relative;
+top: 200px;
+right: 300px;
+}
+.p-Home.Flex25 {
+display: flex;
+column-gap: 20px;
+width: 350px;
+}
+.p-Home.Flex26 {
+display: flex;
+width: 300px;
+column-gap: 20px;
+}
+.p-Home.Flex27 {
+display: flex;
+column-gap: 20px;
+width: 300px;
+}
 .p-Home.Button1 {
 color: #000000;
 background-color: #ffffff;
@@ -363,4 +419,77 @@ border-style: solid;
 border-color: #cccccc;
 cursor: pointer;
 user-select: none;
+}
+.p-Home.TextBox30 {
+font-size: 33px;
+}
+.p-Home.TextBox31 {
+width: 80%;
+color: #8d8d8d;
+}
+.p-Home.TextBox32 {
+width: 80%;
+color: #8d8d8d;
+}
+.p-Home.Button8 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #cccccc;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Button9 {
+color: #fff;
+background-color: #FF7629;
+padding-top: 10px;
+padding-left: 25px;
+padding-bottom: 10px;
+padding-right: 25px;
+font-size: 16px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: transparent;
+cursor: pointer;
+user-select: none;
+}
+.p-Home.Image13 {
+width: 460px;
+border-radius: 30px;
+}
+.p-Home.TextBox26 {
+font-size: 22px;
+}
+.p-Home.Image14 {
+;
+}
+.p-Home.TextBox27 {
+width: 50%;
+color: #8d8d8d;
+}
+.p-Home.Image15 {
+;
+}
+.p-Home.TextBox28 {
+color: #8d8d8d;
+}
+.p-Home.Image16 {
+;
+}
+.p-Home.TextBox29 {
+color: #8d8d8d;
 }
