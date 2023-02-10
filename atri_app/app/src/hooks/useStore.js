@@ -55,6 +55,24 @@ const desktopModeProps = {
     "Flex4": {
       "callbacks": {}
     },
+    "Flex6": {
+      "callbacks": {}
+    },
+    "Flex7": {
+      "callbacks": {}
+    },
+    "Flex9": {
+      "callbacks": {}
+    },
+    "Flex11": {
+      "callbacks": {}
+    },
+    "Flex10": {
+      "callbacks": {}
+    },
+    "Flex8": {
+      "callbacks": {}
+    },
     "Button1": {
       "custom": {
         "text": "Order online"
@@ -143,6 +161,79 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/logo-restaurante.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox6": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum eget non vivamus volutpat odio cras vestibulum purus aliquam."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox7": {
+      "custom": {
+        "text": "The best place to"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox8": {
+      "custom": {
+        "text": "eat burgers in LA."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button4": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button3": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image2": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/home-burger.jpeg"
       },
       "callbacks": {
         "onClick": [

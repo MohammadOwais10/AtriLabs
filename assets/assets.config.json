@@ -1,5 +1,8 @@
 {
   "logo-restaurante.svg": {
     "mime": "image/svg+xml"
+  },
+  "home-burger.jpeg": {
+    "mime": "image/jpeg"
   }
 }
