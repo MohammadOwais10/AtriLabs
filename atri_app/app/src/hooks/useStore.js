@@ -73,6 +73,12 @@ const desktopModeProps = {
     "Flex8": {
       "callbacks": {}
     },
+    "Flex12": {
+      "callbacks": {}
+    },
+    "Flex13": {
+      "callbacks": {}
+    },
     "Button1": {
       "custom": {
         "text": "Order online"
@@ -234,6 +240,70 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/home-burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox9": {
+      "custom": {
+        "text": "Order from your favorite app today!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image4": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slider-postmates.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image5": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slider-rappi.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image6": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slider-grubhub.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image7": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slider-doorash.svg"
       },
       "callbacks": {
         "onClick": [

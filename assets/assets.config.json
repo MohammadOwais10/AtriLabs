@@ -4,5 +4,17 @@
   },
   "home-burger.jpeg": {
     "mime": "image/jpeg"
+  },
+  "slider-doorash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "slider-postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "slider-rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "slider-grubhub.svg": {
+    "mime": "image/svg+xml"
   }
 }

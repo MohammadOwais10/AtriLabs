@@ -53,6 +53,19 @@ display: flex;
 display: flex;
 background-color: #FF7629;
 }
+.p-Home.Flex12 {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+padding-top: 75px;
+font-size: 22px;
+}
+.p-Home.Flex13 {
+display: flex;
+column-gap: 60px;
+}
 .p-Home.Button1 {
 color: #000000;
 background-color: #ffffff;
@@ -166,4 +179,19 @@ padding-right: 40px;
 position: relative;
 right: 200px;
 border-radius: 50px;
+}
+.p-Home.TextBox9 {
+font-size: 25px;
+}
+.p-Home.Image4 {
+width: 200px;
+}
+.p-Home.Image5 {
+width: 100px;
+}
+.p-Home.Image6 {
+width: 150px;
+}
+.p-Home.Image7 {
+width: 250px;
 }
