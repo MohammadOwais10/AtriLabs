@@ -187,6 +187,18 @@ const desktopModeProps = {
     "Flex33": {
       "callbacks": {}
     },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "Flex59": {
+      "callbacks": {}
+    },
+    "Flex61": {
+      "callbacks": {}
+    },
+    "Flex62": {
+      "callbacks": {}
+    },
     "Button1": {
       "custom": {
         "text": "Order online"
@@ -1244,6 +1256,67 @@ const desktopModeProps = {
     "Button11": {
       "custom": {
         "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image25": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/big-burger-icon.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "Taste the most delicious burger in Los Angeles, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox60": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum.  Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button12": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button13": {
+      "custom": {
+        "text": "Reservate"
       },
       "callbacks": {
         "onClick": [
