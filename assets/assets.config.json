@@ -64,5 +64,17 @@
   },
   "big-burger-icon.jpeg": {
     "mime": "image/jpeg"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "face1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "left-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "right-arrow.svg": {
+    "mime": "image/svg+xml"
   }
 }

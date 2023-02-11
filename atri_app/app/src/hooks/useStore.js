@@ -199,6 +199,27 @@ const desktopModeProps = {
     "Flex62": {
       "callbacks": {}
     },
+    "Flex72": {
+      "callbacks": {}
+    },
+    "Flex73": {
+      "callbacks": {}
+    },
+    "Flex75": {
+      "callbacks": {}
+    },
+    "Flex77": {
+      "callbacks": {}
+    },
+    "Flex78": {
+      "callbacks": {}
+    },
+    "Flex79": {
+      "callbacks": {}
+    },
+    "Flex74": {
+      "callbacks": {}
+    },
     "Button1": {
       "custom": {
         "text": "Order online"
@@ -1317,6 +1338,218 @@ const desktopModeProps = {
     "Button13": {
       "custom": {
         "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox61": {
+      "custom": {
+        "text": "1"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox62": {
+      "custom": {
+        "text": "What our clients say"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox63": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image32": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/left-arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image33": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox64": {
+      "custom": {
+        "text": "“You must try these burgers”"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox65": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipiscing massa gravida nisi cras enim quis nibholm varius amet gravida ut facilisis neque egestas."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image26": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image27": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image28": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image29": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image30": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image31": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/face1.jpg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox68": {
+      "custom": {
+        "text": "Matt Cannon"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox69": {
+      "custom": {
+        "text": "San Diego, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button14": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button15": {
+      "custom": {
+        "text": "Book a table"
       },
       "callbacks": {
         "onClick": [
