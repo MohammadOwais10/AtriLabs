@@ -40,5 +40,26 @@
   },
   "email-icon.svg": {
     "mime": "image/svg+xml"
+  },
+  "menu-milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-ice-cream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-chicken-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-egg-toast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "menu-regular-soda.jpeg": {
+    "mime": "image/jpeg"
   }
 }
